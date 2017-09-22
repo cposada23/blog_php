@@ -17,7 +17,7 @@
         </div>
         <div class="row">
             <h2>Posts</h2>
-            <a class="btn btn-primary" href="<?php echo BASE_URL; ?>admin/post/create">New Post</a>
+            <a class="btn btn-primary" href="<?php echo BASE_URL; ?>admin/posts/create">New Post</a>
             <div class="col-md-8">
                 <table class="table">
                     <caption>Tabe content blogs</caption>
